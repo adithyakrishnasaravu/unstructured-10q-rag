@@ -1,0 +1,13 @@
+PDFs
+ ↓
+Unstructured API (ETL)
+ ↓
+Chunking
+ ↓
+Embeddings
+ ↓
+Vector Store
+ ↓
+Retriever
+ ↓
+LLM Answer
